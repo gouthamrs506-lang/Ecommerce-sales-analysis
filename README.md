@@ -7,6 +7,11 @@ E-commerce sales data analysis using Python, SQL and Power BI.
 - SQL for querying and aggregating sales data
 - Power BI for the interactive dashboard
 
+## Files
+- Ecommerce_sales_analysis project.ipynb: Data cleaning and analysis using Pandas in Google Colab
+- Queries.SQL: SQL queries used for sales analysis
+- Dashboard_1 to Dashboard_4: Power BI dashboard screenshots
+
 ## Dashboard Preview
 
 ### Page 1: Executive Sales Overview
